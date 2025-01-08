@@ -1,0 +1,28 @@
+Semantic tags clearly describe their meaning and purpose in a way that is understandable to both developers and browsers. These tags make the structure of a webpage more readable and accessible.
+
+Examples:
+
+<header>: Represents the header of a webpage or a section.
+<footer>: Represents the footer of a webpage or a section.
+<article>: Represents a self-contained piece of content.
+<section>: Represents a thematic grouping of content.
+<nav>: Represents navigation links.
+<main>: Represents the main content of a document.
+Advantages:
+
+Non-Semantic Tags
+Definition: Non-semantic tags do not convey any meaning about their content and are generic containers for styling or layout purposes.
+
+Examples:
+
+<div>: A generic container with no specific meaning.
+<span>: A generic inline container for text or elements.
+Usage:
+
+<div> is often used for grouping elements and applying CSS styling or JavaScript functionality.
+<span> is used for styling or wrapping inline text without semantic meaning.
+Drawbacks:
+
+Lack of Meaning: Does not provide context about the content.
+Accessibility Issues: Makes it harder for assistive technologies to understand the content.
+SEO Limitations: Search engines may not interpret the content structure as effectively.

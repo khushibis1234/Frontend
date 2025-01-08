@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <form >
+        <h1>Studio Rental Application Form</h1>
+        <label for="org">Organistaion :-</label> <br><br>
+        <input type="text"> <br> <br>
+        <label >Main Contact</label> <br>
+        <input type="text" placeholder="first">
+        <input type="text" placeholder="last"> <br><br>
+        <label for="">phone no.</label><br>
+        <input type="number" value="+91"><br><br>
+        <label >email</label> <br>
+        <input type="text" placeholder="first"> <br>
+        <label for="description"></label> <br>
+        <textarea cols="30" rows="20">hello</textarea> <br>
+    <label >DOB:-</label>
+    <input type="date">
+    <label >Gender:-</label> <br>
+    <label for="">male</label><input type="radio" name="a">
+    <label for="">female</label><input type="radio" name="a">
+    <label for="">others</label><input type="radio" name="a"> <br>   
+
+
+    <label >Favourite sports:-</label> <br>
+    <label for="">crickket</label><input type="checkbox" name="a">
+    <label for="">football</label><input type="checkbox" name="a">
+    <label for="">chess</label><input type="checkbox" name="a">    
+     <button type="reset">RESET</button>
+     <button type="submit">SUBMIT</button>
+
+</form>
+</body>
+</html>

@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1><b>Fitness Boot Camp</b></h1>
+    <label for=""><b>Camp Fitness</b></label><br> <br>
+    <label for="">Name</label> 
+    <input type="First">
+    <input type="text"><br> <br>
+    <label for="">Email</label>
+    <input type="text"><br> <br>
+    <label for=""><b>Birht Date</b></label>
+    <input type="text">
+    <input type="text">
+    <input type="text"><br> <br>
+    <label for=""><b>Phone Number</b></label>
+    <input type="text">
+    <input type="text"><br><br>
+    <label for=""><b>Address</b></label>
+    <input type="text"><br><br>
+    <label for="">Street Address</label>
+    <input type="text"><br> <br>
+    <label for="">Street Address2</label>
+    <input type="text"><br><br>
+    <label for=""><b>City</b></label>
+    <input type="text">
+    <label for="">State</label>
+    <input type="text"><br><br>
+    <label for=""><b>Height</b></label>
+    <input type="text"><br><br>
+    <label for="">Weigth</label>
+    <input type="text"><br><br>
+    <label for="">Message</label>
+    <input type="text">
+</body>
+</html>

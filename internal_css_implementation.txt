@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<style>
+    label{
+       color: blueviolet;
+       align-items: center;
+       margin-left: 20%;
+       font-size: 40px;
+    }
+</style>
+<body style="background-color: pink;">
+   
+   <label for=""><b>STACK</b></label>
+<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. <br>Ad laborum magnam consectetur? <br> Distinctio expedita rerum nisi illo officia at doloresul <br>
+    <ul>
+        <li style="color: green;">aspernatur </li>
+        <li style="color:greenyellow;">dicta omnis</li> 
+        <li style="color:green">accusantium</li> 
+    </ul>
+    <br> praesentium voluptatum laborum molestias qui quos quaerat esse beatae quis quae doloremque explicabo nam voluptate, sed quas. Facilis dolor iure ratione?</p>
+<p>Lorem ipsum dolor sit amet <span style="border: 2px solid black;background-color: red;">collection</span> adipisicing elit. Reiciendis minus est voluptatibus excepturi accusantium at unde necessitatibus placeat ea dolore.</p>
+</body>
+</html>

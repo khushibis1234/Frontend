@@ -1,0 +1,23 @@
+.container{
+
+}
+.box{
+    height: 150px;
+    width: 150px;
+}
+#box1{
+    background-color: aqua;
+    position: absolute;
+}
+#box2{
+    background-color: blueviolet;
+   position:fixed;
+}
+#box3{
+    background-color: bisque;
+    height: 170px;
+    position: fixed;
+}
+#box4{
+    background-color: yellowgreen;
+}

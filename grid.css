@@ -1,0 +1,39 @@
+.container{
+    display:grid;
+    grid-template-columns: repeat(auto-fill, minmax(300px,1fr));
+    gap: 20px;
+    grid-auto-rows: minmax(150px 300px);
+}
+.box{
+    /* height: 150px; */
+}
+#box1{
+    background-color: rgb(132, 108, 177);
+}
+#box2{
+    background-color: rgb(40, 32, 32);
+}
+#box3{
+    background-color: rgb(26, 255, 0);
+}
+#box4{
+    background-color: rgb(255, 0, 128);
+}
+#box5{
+    background-color: rgb(212, 0, 255);
+}
+#box6{
+    background-color: rgb(152, 185, 175);
+}
+#box7{
+    background-color: rgb(28, 89, 105);
+}
+#box8
+{
+    background-color: red;
+}
+#box9{
+    background-color: rgb(187, 255, 0);
+}
+
+
